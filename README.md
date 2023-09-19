@@ -1,7 +1,6 @@
 <h1 align="center"> MI README.md</h1>
 
 
-
 ![inteligencia-artificial-05](https://github.com/prasamsacl/DWES/assets/113896447/6427ddd3-4854-40a0-b349-188d44e35729)
   <p align="left">
 
@@ -41,5 +40,13 @@
             <li><a href="#licencia">Licencia</a></li>
         </ol>
     </nav>
- 
     
+ 1.DESCRIPCIÓN DEL PROYECTO   
+ En mi proyecto sobre IA, exploraré y analizaré diversas aplicaciones y conceptos relacionados con esta área de la tecnología. Investigaré cómo la IA está transformando diferentes sectores, desde la atención médica hasta la industria automotriz, y cómo está impactando en nuestra vida cotidiana.
+    
+![EvolucionDeIA](https://github.com/prasamsacl/DWES/assets/113896447/f9b9d491-14eb-4a2f-91c3-ca3f04de7e83)
+
+2.ESTADO DEL PROYECTO
+<h4 align="center">
+💻 Proyecto en construcción 💻
+</h4>
