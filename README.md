@@ -30,23 +30,49 @@
 <nav>
         <h2>Índice</h2>
         <ol>
-            <li><a href="#descripcion">Descripción del Proyecto</a></li>
-            <li><a href="#estado">Estado del Proyecto</a></li>
-            <li><a href="#demostracion">Demostración de Funciones y Aplicaciones</a></li>
-            <li><a href="#acceso">Acceso al Proyecto</a></li>
-            <li><a href="#tecnologias">Tecnologías Utilizadas</a></li>
-            <li><a href="#contribuyentes">Personas Contribuyentes</a></li>
-            <li><a href="#desarrolladoras">Personas Desarrolladoras del Proyecto</a></li>
-            <li><a href="#licencia">Licencia</a></li>
+            <br>
+          ✍️<a href="#descripcion">Descripción del Proyecto</a>✍️
+        </br>
+            <br>  💻<a href="#estado">Estado del Proyecto</a>💻</br>
+           <br>🛠️ <a href="#demostracion">Demostración de Funciones y Aplicaciones</a>🛠️</br>
+           <br>📁 <a href="#acceso">Acceso al Proyecto</a>📁 </br>
+             <br> 🔨 <a href="#tecnologias">Tecnologías Utilizadas</a>🔨</br>
+             <br> 🧑‍🤝‍🧑<a href="#contribuyentes">Personas Contribuyentes</a>🧑‍🤝‍🧑</br>
+             <br> 🫂<a href="#desarrolladoras">Personas Desarrolladoras del Proyecto</a>🫂</br>
+          <br>🗺️<a href="#licencia">Licencia</a>🗺️</br>
         </ol>
     </nav>
-    
- 1.DESCRIPCIÓN DEL PROYECTO   
+  <ol>  
+ <li>DESCRIPCIÓN DEL PROYECTO </li>
  En mi proyecto sobre IA, exploraré y analizaré diversas aplicaciones y conceptos relacionados con esta área de la tecnología. Investigaré cómo la IA está transformando diferentes sectores, desde la atención médica hasta la industria automotriz, y cómo está impactando en nuestra vida cotidiana.
     
 ![EvolucionDeIA](https://github.com/prasamsacl/DWES/assets/113896447/f9b9d491-14eb-4a2f-91c3-ca3f04de7e83)
 
-2.ESTADO DEL PROYECTO
-<h4 align="center">
-💻 Proyecto en construcción 💻
-</h4>
+<li>ESTADO DEL PROYECTO</li>
+🏗️Proyecto en construcción 🏗️
+
+<li><h4>DEMOSTRACIÓN DE FUNCIONES Y APLICACIONES</h4></li>
+
+- `Funcionalidad 1`: descripción de la funcionalidad 1- `Funcionalidad 2`: descripción de la funcionalidad 2- `Funcionalidad 2a`: descripción de la funcionalidade 2a relacionada con la funcionalidad 2- `Funcionalidad 3`: descripción de la funcionalidad 3
+  
+<li><h4>ACCESO AL PROYECTO</h4></li>
+\## 📁 Acceso al proyecto
+
+**Indica cómo se puede descargar o acceder al código fuente del proyecto, ya sea proyecto inicial o final**
+
+\## 🛠️ Abre y ejecuta el proyecto
+
+**Muest
+<li><h4>TECNOLOGÍAS UTILIZADAS</h4></li>
+  Python, Djando, 
+<li><h4>PERSONAS CONTRIBUYENTES</h4></li>
+Prasamsa Castelao López
+
+
+<li><h4>PERSONAS DESARROLLADORAS DEL PROYECTO</h4></li>
+Prasamsa Castelao López
+
+<li><h4>LICENCIA</h4></li>
+</ol>
+
+
