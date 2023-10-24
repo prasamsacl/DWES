@@ -25,6 +25,14 @@ echo '<li>'.$row['comentario'].'</li>';
 }
 mysqli_close($db);
 ?>
+<!-- Formulario para añadir comentario -->
+<p>Deja un nuevo comentario:</p>
+<form action="/comment.php" method="post">
+<textarea rows="6" cols="50" name="new_comment"></textarea><br>
+<input type="hidden" name="id" value="<?php echo $id; ?>">
+<input type="submit" value="Comentar">
+</form>
 </ul>
 </body>
 </html>
+
