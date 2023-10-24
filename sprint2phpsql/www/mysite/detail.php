@@ -18,7 +18,7 @@ echo '<h2>'.$only_row['genero'].'</h2>';
 <h3>Comentarios:</h3>
 <ul>
 <?php
-$query2 = 'SELECT * FROM tComentarios WHERE id='.$id;
+$query2 = 'SELECT * FROM tComentarios WHERE pelicula_id='.$id;
 $result2 = mysqli_query($db, $query2) or die('Query error');
 while ($row = mysqli_fetch_array($result2)) {
 echo '<li>'.$row['comentario'].'</li>';
