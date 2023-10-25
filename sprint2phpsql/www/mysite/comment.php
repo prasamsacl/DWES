@@ -11,6 +11,7 @@
  echo "<p>Nuevo comentario ";
  echo mysqli_insert_id($db);
  echo " añadido</p>";
+
  echo "<a href='/detail.php?id=".$id."'>Volver</a>";
  mysqli_close($db);
  ?>
