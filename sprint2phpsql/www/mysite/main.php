@@ -82,7 +82,7 @@ if ($db) {
         }
 
         $id = $row["id"];
-        echo "<a href='detail.php?pelicula_id={$row['id']}'>Detalles</a>";
+        echo "<a href='detail.php?id={$row['id']}'>Detalles</a>";
         echo "<hr>";
         echo "</div>"; // Cierre del contenedor
     }
