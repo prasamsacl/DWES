@@ -51,12 +51,20 @@
 <body>
 
 <?php
+//ejercicio 5
+session_start();
 $db = mysqli_connect("localhost", "root", "1234", "mysitedb") or die("Fallo en la conexión");
 
 if ($db) {
     // La conexión se estableció correctamente
     echo "<h1>Conexión establecida</h1>";
-
+    //Ejercico 5 - Verificar si el usuario está autenticado
+    if(isset($_SESSION['usuario_id'])) {
+        echo "<p>Bienvenido, Usuario</p>";
+        echo "<a href='logout.php'>Cerrar sesión</a>";
+    } else {
+        echo "<p> <a href='login.html'>Iniciar sesión</a></p>";
+    }
     // LANZAR UNA QUERY
     $query = "SELECT * FROM tPeliculas";
     $result = mysqli_query($db, $query) or die("Error en la consulta");
